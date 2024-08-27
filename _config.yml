@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            Zerin Nichols
+longtitle:        Zerin Nichols
+author:           Zerin Nichols
+email:            deneb1001@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  Zerin's New Website
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://zerinnichols.com'
+baseurl:          '/gb'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
